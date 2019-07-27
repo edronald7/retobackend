@@ -1,0 +1,8 @@
+/* datos de prueba para Customer */
+{"nombre":"Edwin", "apellido":"Copa", "fechaNacimiento":"1985-05-20"}
+
+{"nombre":"Ronald", "apellido":"Dias", "fechaNacimiento":"1987-07-23"}
+
+{"nombre":"Ana", "apellido":"Lopez", "fechaNacimiento":"1965-05-20"}
+
+{"nombre":"Julia", "apellido":"Flores", "fechaNacimiento":"1998-02-16"}
